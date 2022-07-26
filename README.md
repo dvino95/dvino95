@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vino
 - 👀 I’m interested in Cybersecurity and Incidcent Response Management 
-- 🌱 I’m currently learning Security +
-- 📫 How to reach me dvino1995@gmail.com
+- 🌱 Security + and Splunk Certified 
+- 📫 How to reach me davidvinoo@proton.me
 
 <!---
 dvino95/dvino95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
